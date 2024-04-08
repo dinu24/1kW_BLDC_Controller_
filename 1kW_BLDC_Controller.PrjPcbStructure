@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=Current_measurement.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Current_measurement.SchDoc|FileName=Gate_Driver.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Current_measurement.SchDoc|FileName=HV_Side.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Current_measurement.SchDoc|FileName=mcu.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Current_measurement.SchDoc|FileName=optocouplers2.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Current_measurement.SchDoc|FileName=Optocouplers.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Current_measurement.SchDoc|FileName=Precharge circuit.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Current_measurement.SchDoc|FileName=stm32.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Current_measurement.SchDoc|FileName=Voltage_measurement.SchDoc|SheetNumber=4
